@@ -1,5 +1,9 @@
 # UniCars Uni-FACEF
 
+•	API Java
+•	Maven
+•	Mockito
+
 Escopo de negócio 
 
 Nossa empresa atua no ramo de aluguel de carros em várias localidades do país. Os carros são classificados como subcompactos, compactos, sedan ou luxo. Cada carro tem uma marca, um modelo, um ano e uma cor específicos. Cada carro tem um número de identificação único e um número de placa. 
